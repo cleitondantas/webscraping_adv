@@ -1,0 +1,18 @@
+{
+    "numeroProcesso": null,
+    "situacaoProcesso": null,
+    "classeProcesso": null,
+    "assuntoProcesso": null,
+    "foroProcesso": null,
+    "varaProcesso": null,
+    "juizProcesso": null,
+    "dataDistribuicao": null,
+    "numeroControleProcesso": null,
+    "areaProcesso": null,
+    "valorAcaoProcesso": null,
+    "partesProcesso": [],
+    "movimentacoes": [],
+    "peticoesdiversas": [],
+    "incidentes": [],
+    "items_apensos": []
+}
