@@ -1,0 +1,53 @@
+# Ignora arquivos específicos do IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignora diretórios de ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Ignora arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora arquivos de distribuição e build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Ignora arquivos de configuração do Poetry
+.poetry/
+
+# Ignora arquivos de configuração do pytest
+.pytest_cache/
+
+# Ignora arquivos de log e banco de dados
+*.log
+*.sqlite3
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de configuração do VS Code (caso use)
+.vscode/
+
+# Ignora arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignora arquivos de coverage
+.coverage
+htmlcov/
+
+# Ignora arquivos de Jupyter Notebook
+.ipynb_checkpoints/
